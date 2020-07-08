@@ -37,21 +37,46 @@ p {
     text-align: center;
     margin: 4%;
 }
-.prospectus h6 {
-    font-size: 30px;
+.prospectus h5 {
+    font-size: 25px;
 }
-.in-button {
-    color: white;
-    background-color: #21b573;
+.btn-success {
     border-radius: 50px;
     border: none;
     padding: 9px 10px;
     cursor: pointer;
-    width: 30%;
+    font-weight: medium;
+}
+.exception {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.col-md-3 {
+    border-radius: 20px;
 }
 .category-item {
     padding:  20px 20px;
 }
 .category-item img {
-    width: 40%;
+    width: 25%;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.deco {
+    padding: 20px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-deck {
+    border-radius: 20px;
+}
+.date {
+    margin-top: 40px;
+}
+section {
+    margin-bottom: 5%;
+}
+.four img {
+    width: 20%;
 }
