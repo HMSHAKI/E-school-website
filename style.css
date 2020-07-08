@@ -1,11 +1,11 @@
 body {
-    margin: 0 auto;
+    margin: 0;
     font-family: poppins;
 }
 .navbar img {
     width: 25%;
 }
-.nav-item {
+.nav-link {
     font-weight: 500;
     color: black;
 }
@@ -28,18 +28,30 @@ h1 {
 }
 p {
     font-weight: 500;
-    
 }
-.first {
+.top-banner {
     background-color: #f0fff0;
     height: 500px;
 }
-.get-started-button {
+.prospectus {
+    text-align: center;
+    margin: 4%;
+}
+.prospectus h6 {
+    font-size: 30px;
+}
+.in-button {
     color: white;
     background-color: #21b573;
     border-radius: 50px;
     border: none;
     padding: 9px 10px;
     cursor: pointer;
+    width: 30%;
 }
-
+.category-item {
+    padding:  20px 20px;
+}
+.category-item img {
+    width: 40%;
+}
