@@ -1,0 +1,45 @@
+body {
+    margin: 0 auto;
+    font-family: poppins;
+}
+.navbar img {
+    width: 25%;
+}
+.nav-item {
+    font-weight: 500;
+    color: black;
+}
+.inner {
+    padding: 20px 40px;
+}
+.inner img {
+    width: 100%;
+}
+.hightlight {
+    color: orangered;
+    
+}
+.highlight-h {
+    color: #21b573;
+}
+h1 {
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+p {
+    font-weight: 500;
+    
+}
+.first {
+    background-color: #f0fff0;
+    height: 500px;
+}
+.get-started-button {
+    color: white;
+    background-color: #21b573;
+    border-radius: 50px;
+    border: none;
+    padding: 9px 10px;
+    cursor: pointer;
+}
+
